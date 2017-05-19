@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomViewStepOne.iml" filepath="$PROJECT_DIR$/CustomViewStepOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customviewstepone/customviewstepone.iml" filepath="$PROJECT_DIR$/customviewstepone/customviewstepone.iml" />
+    </modules>
+  </component>
+</project>
